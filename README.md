@@ -125,7 +125,7 @@ This project is open source and available for educational purposes.
 ## 👤 Author
 
 **Fidel Mehra**  
-MSc Sdvanced Data Science with Statistics, Newcastle University
+MScA Sdvanced Data Science with Statistics, Newcastle University
 
 ---
 
